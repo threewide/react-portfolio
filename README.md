@@ -18,16 +18,18 @@ To Install and begin working on the React Portfolio, follow these easy steps:
 2. In the terminal enter: '<b>git clone https://github.com/threewide/react-portfolio</b>' to create a clone of the React Portfolio Repo
 3. In the terminal enter: '<b>code .</b>' to open the project in Visual Studios development environment
 
-![Installation](./assets/images/installation.png)
+![Installation](./react-portfolio-app/public/assets/images/installation.png)
 
 5. The project will still need to install the required node packages. In the terminal window change directory to the newly cloned React Portfolio project by entering: '<b>cd react-portfolio/react-portfolio-app</b>' 
 6. Now that you are in the correct directory, install the node packages with: '<b>npm i</b>'.
 
-![npm Installation](./assets/images/npm-installation.png)
+![npm Installation](./react-portfolio-app/public/assets/images/npm-installation.png)
 
 7. Enter the command '<b>npm run build</b>' to configue the build folder
 
 This initializes the project to a state of being both ready to be ran (with the command '<b>npm start</b>') and worked on as a developer!
+
+![Portfolio](./react-portfolio-app/public/assets/images/portfolio.png)
 
 ## Usage
 
