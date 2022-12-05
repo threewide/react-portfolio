@@ -2,7 +2,7 @@
 
 ## Description
 
-The React portfolio is a website that displays a web developers different projects that they have worked on with: links, a brief summary of the web developer, shows their resume and  provides contact info.
+The React portfolio is a multi-page website that displays a web developers different projects that they have worked on with: links, a brief summary of the web developer, shows their resume and  provides contact info.
 
 ## Table of Contents
 
