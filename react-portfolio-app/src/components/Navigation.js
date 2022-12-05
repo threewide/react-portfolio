@@ -4,7 +4,7 @@ import React from 'react';
 // We assign them to their own variable names
 function Navigation({ currentPage, handlePageChange }) {
   return (
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg" style={{background: "orange"}}>
                 <div class="d-flex align-items-center">
                     <ul className="nav" >
                         <li className="nav-item" class="px-4">

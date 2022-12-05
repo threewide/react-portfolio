@@ -3,7 +3,7 @@ import Navigation from "./Navigation";
 
 function Header({ currentPage, handlePageChange }) {
     return (
-        <header class="navbar navbar-expand-lg navbar-light bg-light">
+        <header class="navbar navbar-expand-lg" style={{background: "red"}}>
             <div class="container-fluid m-4">
                 <div class="px-4">
                     <a href="#home" 

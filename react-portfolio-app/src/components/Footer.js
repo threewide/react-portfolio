@@ -5,7 +5,7 @@ import { FaLinkedin, FaGithub, FaFacebook } from 'react-icons/fa';
 // We assign them to their own variable names
 function Footer() {
   return (
-    <footer class="text-center">
+    <footer class="text-center" style={{background: "blue"}}>
         <div class="container">
             <section class="mb-4">
                 <a
