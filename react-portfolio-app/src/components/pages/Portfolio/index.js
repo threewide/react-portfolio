@@ -50,6 +50,17 @@ export default function Portfolio() {
             </div>
             <div class="row p-4">
                 <div class="col p-4">
+                    <img src={require('./images/patients-please.png')} width="400px" height="400px" alt="Patience Please home page"/>
+                    <a href='https://patienceplease-app.herokuapp.com/'>Patients Please</a>
+                    <a
+                    class="btn btn-link btn-floating btn-lg  m-1"
+                    href="https://github.com/cvanbreda91/PatientsPlease"
+                    role="button"
+                    data-mdb-ripple-color="dark">
+                        <FaGithub />
+                    </a>
+                </div>
+                <div class="col p-4">
                     <img src={require('./images/social-network-api.jpg')} width="400px" height="400px" alt="social network api example using Insomnia"/>
                     <a href='https://github.com/threewide/social-network-api'>Social Network API</a>
                     <a
@@ -60,25 +71,14 @@ export default function Portfolio() {
                         <FaGithub />
                     </a>
                 </div>
+            </div>
+            <div class="row p-4">
                 <div class="col p-4">
                     <img src={require('./images/regex-tutorial-gist.jpg')} width="400px" height="400px" alt="Regex tutorial"/>
                     <a href='https://gist.github.com/threewide/0139193cd430807e91f0af4e75d4ec9b'>Regex Tutorial: Matching an Email</a>
                     <a
                     class="btn btn-link btn-floating btn-lg  m-1"
                     href="https://github.com/threewide/regex-tutorial"
-                    role="button"
-                    data-mdb-ripple-color="dark">
-                        <FaGithub />
-                    </a>
-                </div>
-            </div>
-            <div class="row p-4">
-                <div class="col p-4">
-                    <img src={require('./images/npm-tests.jpg')} width="400px" height="400px" alt="npm tests passing"/>
-                    <a href='https://github.com/threewide/North-Wilkesboro'>Team Profile Generator</a>
-                    <a
-                    class="btn btn-link btn-floating btn-lg  m-1"
-                    href="https://github.com/threewide/North-Wilkesboro"
                     role="button"
                     data-mdb-ripple-color="dark">
                         <FaGithub />
